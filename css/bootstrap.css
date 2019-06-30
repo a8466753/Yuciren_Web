@@ -8886,6 +8886,9 @@ button.bg-dark:focus {
   font-style: italic !important;
 }
 
+.text-white1 {
+  color: #fff !important;
+}
 .text-white {
   color: #fff !important;
   padding-top: 60px;
